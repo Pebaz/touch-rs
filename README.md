@@ -1,5 +1,5 @@
 # ☝ touch-rs
-A simplified version of the Linux `touch` command, implemented in Rust.
+A simplified version of the Linux [`touch`](<http://man7.org/linux/man-pages/man1/touch.1.html>) command, implemented in Rust.
 
 # Installation
 
